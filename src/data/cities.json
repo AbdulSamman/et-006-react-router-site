@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Madrid",
+    "idCode": "madrid",
+    "description": "Madrid is the capital and most populous city of Spain."
+  },
+  {
+    "id": 2,
+    "name": "Barcelona",
+    "idCode": "barcelona",
+    "description": "Barcelona is a city on the coast of northeastern Spain."
+  },
+  {
+    "id": 3,
+    "name": "Seville",
+    "idCode": "seville",
+    "description": "Seville is the capital and largest city of the Spanish autonomous community of Andalusia and the province of Seville."
+  },
+  {
+    "id": 4,
+    "name": "Málaga",
+    "idCode": "malaga",
+    "description": "Málaga is a municipality of Spain, capital of the Province of Málaga, in the autonomous community of Andalusia."
+  },
+  {
+    "id": 5,
+    "name": "Valencia",
+    "idCode": "valencia",
+    "description": "Valencia is the capital of the autonomous community of Valencia and the third-most populated municipality in Spain."
+  }
+]
